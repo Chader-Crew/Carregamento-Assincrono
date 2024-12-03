@@ -10,6 +10,6 @@ public class SceneLoader : MonoBehaviour
     {
         loadScreenOverlay.SetActive(true);
         SceneManager.LoadSceneAsync(sceneName);
-        SceneManager.
+        //SceneManager.
     }
 }
